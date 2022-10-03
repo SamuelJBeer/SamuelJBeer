@@ -1,0 +1,113 @@
+{
+  "Defaults": {
+    "Color": "green",
+    "LogoColor": "white",
+    "Style": "for-the-badge"
+  },
+
+  "Collections": [
+    {
+      "Title": "Programming Languages",
+      "Order": 1,
+      "Badges": [
+        {"Label": "CSharp", "Color": "9b4f96"},
+        {"Label": "Go", "Color": "6ad7e5", "LogoColor": "black"},
+        {"Label": "Javascript", "Color": "f0db4f", "LogoColor": "black"},
+        {"Label": "PHP", "Color": "6181b6"},
+        {"Label": "PowerShell", "Color": "5391FE"},
+        {"Label": "Python", "Color": "407eaf"}
+      ]
+    },
+    
+    {
+      "Title": "Frontend Development",
+      "Order": 2,
+      "Badges": [
+        {"Label": "Bootstrap", "Color": "7952b3"},
+        {"Label": "CSS3", "Color": "1572b6"},
+        {"Label": "HTML5", "Color": "E34F26"},
+        {"Label": "SASS", "Color": "CC6699"},
+        {"Label": "Styled Components", "Color": "db7092"},
+        {"Label": "TailwindCss", "Color": "43a7b3"},
+        {"Label": "Vue.JS", "Color": "41b883"}
+      ]
+    },
+
+    {
+      "Title": "Backend Development",
+      "Order": 3,
+      "Badges": [
+        {"Label": "NodeJS", "Logo": "node.js", "Color": "339933"},
+        {"Label": "NGINX", "Color": "009639"}
+      ]
+    },
+
+    {
+      "Title": "Database",
+      "Order": 4,
+      "Badges": [
+        {"Label": "mariadb", "Color": "003545"},
+        {"Label": "mongoDB", "Color": "47A248"},
+        {"Label": "MySQL", "Color": "4479A1"},
+        {"Label": "PostgreSQL", "Color": "4169E1"},
+        {"Label": "redis", "Color": "DC382D"},
+        {"Label": "sqlite", "Color": "003B57"}
+      ]
+    },
+
+    {
+      "Title": "Framework",
+      "Order": 5,
+      "Badges": [
+        {"Label": "django", "Color": "092E20"},
+        {"Label": "dotNET", "Color": "512BD4"},
+        {"Label": "flask", "Color": "000000"},
+        {"Label": "Laravel", "Color": "ff2d20"}
+      ]
+    },
+
+    {
+      "Title": "Software",
+      "Order": 6,
+      "Badges": [
+        {"Label": "Adobe Illustrator", "Color": "ff9a00"},
+        {"Label": "Adobe InDesign", "Color": "FF3366"},
+        {"Label": "Adobe Photoshop", "Color": "31A8FF"},
+        {"Label": "Bash", "Logo": "gnubash", "Color": "4EAA25"},
+        {"Label": "Docker", "Color": "2496ED"},
+        {"Label": "Git", "Color": "F05032"},
+        {"Label": "Gulp", "Color": "eb4a4b"},
+        {"Label": "Postman", "Color": "FF6C37"},
+        {"Label": "VSCode", "Logo": "visualstudiocode", "Color": "007ACC"},
+        {"Label": "Webpack", "Color": "1c78c0"},
+        {"Label": "Windows Terminal", "Color": "4d4d4d"}
+      ]
+    },
+
+    {
+      "Title": "Static Site Generators",
+      "Order": 7,
+      "Badges": [
+        {"Label": "Gatsby", "Color": "663399"},
+        {"Label": "Hugo", "Color": "FF4088"}
+      ]
+    },
+
+    {
+      "Title": "Testing",
+      "Order": 8,
+      "Badges": [
+        {"Label": "Puppeteer", "Color": "40B5A4"}
+      ]
+    },
+
+    {
+      "Title": "Operating System",
+      "Order": 9,
+      "Badges": [
+        {"Label": "Linux", "Color": "FCC624", "LogoColor": "black"},
+        {"Label": "Windows", "Color": "0078D6"}
+      ]
+    }
+  ]
+}
